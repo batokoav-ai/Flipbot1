@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]
+curl_cffi
+aiohttp
+aiosqlite
+Pillow
+numpy
